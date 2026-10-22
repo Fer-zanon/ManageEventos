@@ -1,0 +1,4 @@
+interface:
+  display_name: "Write Project Documents"
+  short_description: "Write clear, human technical project documents"
+  default_prompt: "Use $write-project-documents to draft or revise this repository document in our internal technical style."

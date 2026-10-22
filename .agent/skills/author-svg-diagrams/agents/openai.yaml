@@ -1,0 +1,4 @@
+interface:
+  display_name: "Author SVG Diagrams"
+  short_description: "Create clear, bounded course SVG diagrams"
+  default_prompt: "Use $author-svg-diagrams to create or revise this SVG and verify its bounds, animation, accessibility, and rounded canvas."

@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 250" role="img" aria-labelledby="title">
+  <title id="title">help by Ine</title>
+  <g fill="none" stroke="#0c302e" stroke-width="4" stroke-linecap="round">
+    <path d="M148 24l-8-13m-3 29-15-5m82-4 10-14m-5 29 16-8"/>
+  </g>
+  <path fill="#ffca25" d="M175 9c-25 0-44 20-44 45 0 25 22 43 44 58 22-15 44-33 44-58 0-25-19-45-44-45z"/>
+  <path d="M146 47c3-13 10-21 19-24" fill="none" stroke="#fff9d9" stroke-width="5" stroke-linecap="round"/>
+  <text x="10" y="177" fill="#0c302e" font-family="Arial, Helvetica, sans-serif" font-weight="900" font-size="125" letter-spacing="-8">help</text>
+  <text x="76" y="228" fill="#0c302e" font-family="Segoe Script, Snell Roundhand, Brush Script MT, cursive" font-style="italic" font-size="52" letter-spacing="-3">by Ine</text>
+  <path d="M73 73c-13-17-23-7-16 4l17 18 7-24c3-12-8-15-8 2z" fill="none" stroke="#f598a6" stroke-width="4" stroke-linejoin="round"/>
+  <path d="M142 240h17m51 0h17" stroke="#ffca25" stroke-width="4" stroke-linecap="round"/>
+  <path d="M183 239c-9-11-16-3-10 3l10 8 10-8c6-6-1-14-10-3z" fill="none" stroke="#f598a6" stroke-width="3"/>
+</svg>

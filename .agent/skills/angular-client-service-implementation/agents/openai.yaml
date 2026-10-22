@@ -1,0 +1,4 @@
+interface:
+    display_name: "Angular Client Service Implementation"
+    short_description: "Implement complete NSwag-backed Angular services and models"
+    default_prompt: "Use $angular-client-service-implementation to implement or review a complete Angular client service, its models and DTOs, and every in-scope generated NSwag client method."

@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">help by Ine</string>
+    <string name="title_activity_main">help by Ine</string>
+    <string name="package_name">com.manageeventos.confeti</string>
+    <string name="custom_url_scheme">com.manageeventos.confeti</string>
+</resources>
